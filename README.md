@@ -10,6 +10,8 @@ sudo apt install git  -y
 
 ----------------------------------
 
+https://fatihonder.org.tr/shell-script-ile-mors-translator-yapimi/
+
 # Installation
 Install Morse-Translator
 
