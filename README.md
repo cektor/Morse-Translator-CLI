@@ -1,3 +1,7 @@
+<a href="https://github.com/pedromxavier/flag-badges">
+    <img src="https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/TR.svg" alt="made in TR">
+</a>
+
 # Morse-Translator
 Linux Terminal Script Shell Application for Radio Amateurs Who Can Translate Morse Code to Text and Text to Morse Code
 
