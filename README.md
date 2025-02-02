@@ -20,10 +20,10 @@ https://fatihonder.org.tr/shell-script-ile-mors-translator-yapimi/
 Install Morse-Translator
 
 ```bash
-sudo git clone https://github.com/cektor/Morse-Translator.git
+sudo git clone https://github.com/cektor/Morse-Translator-CLI.git
 ```
 ```bash
-cd Morse-Translator
+cd Morse-Translator-CLI
 ```
 ```bash
 sudo chmod +x mors.sh
